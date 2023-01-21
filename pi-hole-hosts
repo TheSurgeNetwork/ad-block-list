@@ -1,29 +1,29 @@
-ads.pubmatic.com
-adclick.g.doubleclick.net
-securepubads.g.doubleclick.net
-adservice.google.com
-adservice.google.co.uk
-rtb.adpone.com
-secure.adnxs.com
-ads.servenobid.com
-c.aaxads.com
-g2.gumgum.com
-ssbsync.smartadserver.com
-fw.adsafeprotected.com
-rtb-csync.smartadserver.com
-dt.adsafeprotected.com
-usersync.gumgum.com
-ade.googlesyndication.com
-data00.adlooxtracking.com
-s0.2mdn.net
-tpc.googlesyndication.com
-www.googleadservices.com
-px.moatads.com
-ads.adthrive.com
-ib.adnxs.com
-btlr.sharethrough.com
-logger.adthrive.com
-hbopenbid.pubmatic.com
-securepubads.g.doubleclick.net
-a.teads.tv
-direct.adsrvr.org
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.co.uk
+0.0.0.0 rtb.adpone.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 ads.servenobid.com
+0.0.0.0 c.aaxads.com
+0.0.0.0 g2.gumgum.com
+0.0.0.0 ssbsync.smartadserver.com
+0.0.0.0 fw.adsafeprotected.com
+0.0.0.0 rtb-csync.smartadserver.com
+0.0.0.0 dt.adsafeprotected.com
+0.0.0.0 usersync.gumgum.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 data00.adlooxtracking.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 px.moatads.com
+0.0.0.0 ads.adthrive.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 btlr.sharethrough.com
+0.0.0.0 logger.adthrive.com
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 a.teads.tv
+0.0.0.0 direct.adsrvr.org
